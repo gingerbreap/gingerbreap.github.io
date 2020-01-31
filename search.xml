@@ -20,6 +20,7 @@
 <blockquote>
 <p>秦人不暇自哀，而后人哀之，后人哀之而不鉴之，亦使后人而复哀后人也！</p>
 </blockquote>
+<p>警钟长鸣。</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
