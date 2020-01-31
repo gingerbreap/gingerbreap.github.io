@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GbrP bakery</title>
+  
+  <subtitle>Just a sip of coffee.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.gbrp.tk/"/>
+  <updated>2020-01-31T09:31:38.403Z</updated>
+  <id>https://blog.gbrp.tk/</id>
+  
+  <author>
+    <name>GingerbreaP</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>被删微信好友后的小小想法</title>
+    <link href="https://blog.gbrp.tk/2020/01/3h3a97h/"/>
+    <id>https://blog.gbrp.tk/2020/01/3h3a97h/</id>
+    <published>2020-01-30T16:00:00.000Z</published>
+    <updated>2020-01-31T09:31:38.403Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;突然被一个朋友删了好友，意外之余，还是挺难受的。&lt;/p&gt;
+&lt;p&gt;起因是我在这位同学昨晚朋友圈下的回复&lt;em&gt;（照片不重要）&lt;/em&gt;：&lt;br&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="闲聊" scheme="https://blog.gbrp.tk/categories/%E9%97%B2%E8%81%8A/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日语学习Day3</title>
+    <link href="https://blog.gbrp.tk/2018/07/15sdx07/"/>
+    <id>https://blog.gbrp.tk/2018/07/15sdx07/</id>
+    <published>2018-07-16T16:00:00.000Z</published>
+    <updated>2020-01-29T12:48:51.359Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;每日一歌&quot;&gt;&lt;a href=&quot;#每日一歌&quot; class=&quot;headerlink&quot; title=&quot;每日一歌&quot;&gt;&lt;/a&gt;每日一歌&lt;/h3&gt;&lt;iframe frameborder=&quot;no&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日语" scheme="https://blog.gbrp.tk/categories/%E6%97%A5%E8%AF%AD/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>日语学习Day1 &amp; 2</title>
+    <link href="https://blog.gbrp.tk/2018/07/1sjmeg3/"/>
+    <id>https://blog.gbrp.tk/2018/07/1sjmeg3/</id>
+    <published>2018-07-15T16:00:00.000Z</published>
+    <updated>2020-01-29T12:47:39.035Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;终于出炉了。虽然有点迟到233&lt;br&gt;（绝对不是因为昨天忘了才只做了一个。嗯。）&lt;/p&gt;
+&lt;h3 id=&quot;开始之前&quot;&gt;&lt;a href=&quot;#开始之前&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日语" scheme="https://blog.gbrp.tk/categories/%E6%97%A5%E8%AF%AD/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>小站记事</title>
+    <link href="https://blog.gbrp.tk/2018/06/399ya7b/"/>
+    <id>https://blog.gbrp.tk/2018/06/399ya7b/</id>
+    <published>2018-06-20T16:00:00.000Z</published>
+    <updated>2020-01-29T12:54:30.898Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;免责声明&quot;&gt;&lt;a href=&quot;#免责声明&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="闲聊" scheme="https://blog.gbrp.tk/categories/%E9%97%B2%E8%81%8A/"/>
+    
+    
+  </entry>
+  
+</feed>
