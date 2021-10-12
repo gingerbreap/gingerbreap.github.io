@@ -259,7 +259,7 @@ mark {
     bottom: 0;
     z-index: 300;
     background-image: linear-gradient(to right, #957B6B 0%, #7E6D6D 100%);
-    /* ackground-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%); */
+    /* background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%); */
     opacity: 0.8;
 }
 
@@ -299,6 +299,7 @@ header .brand-logo .logo-img {
 
 header .brand-logo .logo-span {
     font-size: 1.6rem;
+    font-family: pacifico, sans-serif;
 }
 
 /*修改顶部 logo 的文字垂直对齐为 top，避免默认 middle 看起来偏下*/
@@ -324,6 +325,9 @@ header .side-nav .mobile-head .logo-name {
     margin-top: -30px;
     padding-left: 10px;
     font-size: 1.5rem;
+    font-family: pacifico, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 header .side-nav .mobile-head .logo-desc {
@@ -576,8 +580,11 @@ header .go-back i {
 }
 
 .bg-cover .title {
+    font-family: adobe-garamond-pro, serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 4rem;
-    line-height: 1.2em;
+    line-height: 1.85em;
     margin-bottom: 20px;
     position: relative;
 }

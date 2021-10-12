@@ -1,64 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>日语学习Day3</title>
-      <link href="/2018/07/15sdx07/"/>
-      <url>/2018/07/15sdx07/</url>
-      
-        <content type="html"><![CDATA[<h3 id="每日一歌"><a href="#每日一歌" class="headerlink" title="每日一歌"></a>每日一歌</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=536622304&amp;auto=1&amp;height=66"></iframe>### 每日一句&gt; 真理は平凡な中にある。一朝一夕にことがなるものではない。一日一日が大事なのだ。<p>（注：武田信玄 (1521-1573)，日本战国时代名将）</p><h4 id="知识点-exclamation"><a href="#知识点-exclamation" class="headerlink" title="知识点 :exclamation:"></a>知识点 <span class="github-emoji" style="font-size:1em"><span>❗</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h4><blockquote><p> 一生懸命（いっしょうけんめい）<br>　　【名·形2】 拼命、努力<br>… だと<br>　　 如果 … 的话<br>知恵（ちえ）<br>　　【名】智慧、主意<br> 出る（で～）<br>　　【自动】1.出去 2.得到 3.出现 4.（液体）流出、漏出<br> 愚痴（ぐち）<br>　　【名】牢骚、抱怨<br> いい加減（~かげん）<br>　　【形2】1.适可而止 2.马马虎虎<br> 言い訳（い～わけ）<br>　　【名·他动】1.分辨、辩解 2.道歉</p></blockquote><h3 id="今日干货-star2"><a href="#今日干货-star2" class="headerlink" title="今日干货 :star2:"></a>今日干货 <span class="github-emoji" style="font-size:1em"><span>🌟</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h3><h4 id="語彙パート（ごい-）-词汇部分"><a href="#語彙パート（ごい-）-词汇部分" class="headerlink" title="語彙パート（ごい~）　　　词汇部分"></a>語彙パート（ごい~）　　　词汇部分</h4><blockquote><p>夏（なつ）<br>　　【名】夏天<br>  　　●　夏休み（～やす～）　　　　暑假</p></blockquote><blockquote><p>海（うみ）<br>　　【名】大海<br>  　　●　海水浴（<strong>かい</strong>すいよく）　　海水浴<br>  　　●　海産物（<strong>かい</strong>さんぶつ）　　海产</p></blockquote><blockquote><p>恋（こい）<br>　　【名】恋爱<br>  　　●　恋人（～びと）　　　　　　恋人<br>  　　●　恋愛（<strong>れんあい</strong>）　　　　　恋爱</p></blockquote><blockquote><p>好き（す～）<br> 　　【名·形2】喜欢、喜好（对人、对物均可）<br>  　　●　～な人（～ひと）　　　　　喜欢的人<br>  　　●　大好き（だいすき）　　　　最喜欢</p></blockquote><h4 id="文パート（ぶん-）-句子部分"><a href="#文パート（ぶん-）-句子部分" class="headerlink" title="文パート（ぶん~）　　　句子部分"></a>文パート（ぶん~）　　　句子部分</h4><blockquote><p>（下次这里就有东西了 真的不是懒得做）</p></blockquote><p>以上、今日の毎日日本語は完了しました。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>小站记事</title>
+    <url>/2018/06/399ya7b/</url>
+    <content><![CDATA[<h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2><ul>
+<li>请不要在这里发表任何违反阁下所在地区法律法规的评论！</li>
+<li>本站 live2d <del>纸片人</del>动态模块上方采用了一言 (hitokoto) 的 API 即时获取文本，那些奇奇怪怪的话小饼可不知道怎么出来的（</li>
+<li>本站所有的文字均有可能是没睡醒脸滚键盘滚出来的，若与阁下看法相左<strong>烦请略过</strong>，如侵犯到阁下利益请移步右侧 <span class="github-emoji" style="font-size:1em"><span>👉</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> 私聊按钮或联系 <a href="mailto:petertianle@outlook.com">petertianle@outlook.com</a> 解决。在评论区的任何纠纷小饼可不会管（</li>
+<li>最后，小饼也不知道为什么 bakery 里全是 coffee 没有 bread <del>疯狂暗示 donate</del>（</li>
+</ul>
+<h2 id="更新记录"><a href="#更新记录" class="headerlink" title="更新记录"></a>更新记录</h2><h3 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h3><p><strong>2020/1/29</strong> · 2019-nCoV 期间丢弃了源代码（实际是懒懒不想看原来的配置）并使用 Hexo 4.2.0 / Matery 1.2.2 重构小站。</p>
+<h3 id="2018"><a href="#2018" class="headerlink" title="2018"></a>2018</h3><p><del>此后由于旧电脑的废弃而搁置。</del>其实只是懒（<br><strong>2018/7/16</strong> · 有了第一篇非记事性文章。<br><strong>2018/6/21</strong> · 小站建站，使用 Hexo 3.7.1 / NexT.Gemini 6.3.0。</p>
+]]></content>
       <categories>
-          
-          <category> 日语 </category>
-          
+        <category>闲聊</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>日语学习Day1 &amp; 2</title>
-      <link href="/2018/07/1sjmeg3/"/>
-      <url>/2018/07/1sjmeg3/</url>
-      
-        <content type="html"><![CDATA[<p>终于出炉了。虽然有点迟到233<br>（绝对不是因为昨天忘了才只做了一个。嗯。）</p><h3 id="开始之前"><a href="#开始之前" class="headerlink" title="开始之前"></a>开始之前</h3><p>怎么读日语你得先知道啊 <span class="github-emoji" style="font-size:1em"><span>👇</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><span class="github-emoji" style="font-size:1em"><span>👇</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><span class="github-emoji" style="font-size:1em"><span>👇</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><br><img src="http://n.sinaimg.cn/sinacn/20170628/d4a5-fyhneam4810078.jpg" style="zoom:80%"><br>好的，接下来就开始Nan气满满地进入今天的内容吧<span class="github-emoji" style="font-size:1em"><span>👉</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><br>（<span class="github-emoji" style="font-size:1em"><span>🔴</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>注意：词汇部分所有“~”均可代表曾在当前词条出现过的对应字/词/假名。）</p><h3 id="每日一歌"><a href="#每日一歌" class="headerlink" title="每日一歌"></a>每日一歌</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=536622304&amp;auto=1&amp;height=66"></iframe>### 每日一句&gt; 一生懸命だと知恵が出る　　　勤勉一生得智慧&gt; 中途半端だと愚痴が出る　　　半途而废得抱怨&gt; いい加減だと言い訳が出る　　马马虎虎得借口&gt; ——武田信玄　　　　　　　　——武田信玄<p>（注：武田信玄 (1521-1573)，日本战国时代名将）</p><h4 id="知识点-exclamation"><a href="#知识点-exclamation" class="headerlink" title="知识点 :exclamation:"></a>知识点 <span class="github-emoji" style="font-size:1em"><span>❗</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h4><blockquote><p> 一生懸命（いっしょうけんめい）<br>　　【名·形2】 拼命、努力<br>… だと<br>　　 如果 … 的话<br>知恵（ちえ）<br>　　【名】智慧、主意<br> 出る（で～）<br>　　【自动】1.出去 2.得到 3.出现 4.（液体）流出、漏出<br> 愚痴（ぐち）<br>　　【名】牢骚、抱怨<br> いい加減（~かげん）<br>　　【形2】1.适可而止 2.马马虎虎<br> 言い訳（い～わけ）<br>　　【名·他动】1.分辨、辩解 2.道歉</p></blockquote><h3 id="今日干货-star2"><a href="#今日干货-star2" class="headerlink" title="今日干货 :star2:"></a>今日干货 <span class="github-emoji" style="font-size:1em"><span>🌟</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h3><p><code>“这个点，就要0.5分0.5分地去抠！”</code></p><h4 id="語彙パート（ごい-）-词汇部分"><a href="#語彙パート（ごい-）-词汇部分" class="headerlink" title="語彙パート（ごい~）　　　词汇部分"></a>語彙パート（ごい~）　　　词汇部分</h4><blockquote><p>夏（なつ）<br>　　【名】夏天<br>  　　●　夏休み（～やす～）　　　　暑假</p></blockquote><blockquote><p>海（うみ）<br>　　【名】大海<br>  　　●　海水浴（<strong>かい</strong>すいよく）　　海水浴<br>  　　●　海産物（<strong>かい</strong>さんぶつ）　　海产</p></blockquote><blockquote><p>恋（こい）<br>　　【名】恋爱<br>  　　●　恋人（～びと）　　　　　　恋人<br>  　　●　恋愛（<strong>れんあい</strong>）　　　　　恋爱</p></blockquote><blockquote><p>好き（す～）<br> 　　【名·形2】喜欢、喜好（对人、对物均可）<br>  　　●　～な人（～ひと）　　　　　喜欢的人<br>  　　●　大好き（だいすき）　　　　最喜欢</p></blockquote><h4 id="文パート（ぶん-）-句子部分"><a href="#文パート（ぶん-）-句子部分" class="headerlink" title="文パート（ぶん~）　　　句子部分"></a>文パート（ぶん~）　　　句子部分</h4><blockquote><p>（下次这里就有东西了 真的不是懒得做）</p></blockquote><p>以上、今日の毎日日本語は完了しました。</p>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>日语学习Day1 &amp; 2</title>
+    <url>/2018/07/1sjmeg3/</url>
+    <content><![CDATA[<p>终于出炉了。虽然有点迟到233<br>（绝对不是因为昨天忘了才只做了一个。嗯。）</p>
+<h3 id="开始之前"><a href="#开始之前" class="headerlink" title="开始之前"></a>开始之前</h3><p>怎么读日语你得先知道啊 <span class="github-emoji" style="font-size:1em"><span>👇</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><span class="github-emoji" style="font-size:1em"><span>👇</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><span class="github-emoji" style="font-size:1em"><span>👇</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><br><img src="http://n.sinaimg.cn/sinacn/20170628/d4a5-fyhneam4810078.jpg" style="zoom:80%"><br>好的，接下来就开始Nan气满满地进入今天的内容吧<span class="github-emoji" style="font-size:1em"><span>👉</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><br>（<span class="github-emoji" style="font-size:1em"><span>🔴</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>注意：词汇部分所有“~”均可代表曾在当前词条出现过的对应字/词/假名。）</p>
+<h3 id="每日一歌"><a href="#每日一歌" class="headerlink" title="每日一歌"></a>每日一歌</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=536622304&amp;auto=1&amp;height=66"></iframe>
+### 每日一句
+&gt; 一生懸命だと知恵が出る　　　勤勉一生得智慧
+&gt; 中途半端だと愚痴が出る　　　半途而废得抱怨
+&gt; いい加減だと言い訳が出る　　马马虎虎得借口
+&gt; ——武田信玄　　　　　　　　——武田信玄
+
+<p>（注：武田信玄 (1521-1573)，日本战国时代名将）</p>
+<h4 id="知识点-exclamation"><a href="#知识点-exclamation" class="headerlink" title="知识点 :exclamation:"></a>知识点 <span class="github-emoji" style="font-size:1em"><span>❗</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h4><blockquote>
+<p> 一生懸命（いっしょうけんめい）<br>　　【名·形2】 拼命、努力<br>… だと<br>　　 如果 … 的话<br>知恵（ちえ）<br>　　【名】智慧、主意<br> 出る（で～）<br>　　【自动】1.出去 2.得到 3.出现 4.（液体）流出、漏出<br> 愚痴（ぐち）<br>　　【名】牢骚、抱怨<br> いい加減（~かげん）<br>　　【形2】1.适可而止 2.马马虎虎<br> 言い訳（い～わけ）<br>　　【名·他动】1.分辨、辩解 2.道歉</p>
+</blockquote>
+<h3 id="今日干货-star2"><a href="#今日干货-star2" class="headerlink" title="今日干货 :star2:"></a>今日干货 <span class="github-emoji" style="font-size:1em"><span>🌟</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h3><p><code>“这个点，就要0.5分0.5分地去抠！”</code></p>
+<h4 id="語彙パート（ごい-）-词汇部分"><a href="#語彙パート（ごい-）-词汇部分" class="headerlink" title="語彙パート（ごい~）　　　词汇部分"></a>語彙パート（ごい~）　　　词汇部分</h4><blockquote>
+<p>夏（なつ）<br>　　【名】夏天<br>  　　●　夏休み（～やす～）　　　　暑假</p>
+</blockquote>
+<blockquote>
+<p>海（うみ）<br>　　【名】大海<br>  　　●　海水浴（<strong>かい</strong>すいよく）　　海水浴<br>  　　●　海産物（<strong>かい</strong>さんぶつ）　　海产</p>
+</blockquote>
+<blockquote>
+<p>恋（こい）<br>　　【名】恋爱<br>  　　●　恋人（～びと）　　　　　　恋人<br>  　　●　恋愛（<strong>れんあい</strong>）　　　　　恋爱</p>
+</blockquote>
+<blockquote>
+<p>好き（す～）<br> 　　【名·形2】喜欢、喜好（对人、对物均可）<br>  　　●　～な人（～ひと）　　　　　喜欢的人<br>  　　●　大好き（だいすき）　　　　最喜欢</p>
+</blockquote>
+<h4 id="文パート（ぶん-）-句子部分"><a href="#文パート（ぶん-）-句子部分" class="headerlink" title="文パート（ぶん~）　　　句子部分"></a>文パート（ぶん~）　　　句子部分</h4><blockquote>
+<p>（下次这里就有东西了 真的不是懒得做）</p>
+</blockquote>
+<p>以上、今日の毎日日本語は完了しました。</p>
+]]></content>
       <categories>
-          
-          <category> 日语 </category>
-          
+        <category>日语</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>小站记事</title>
-      <link href="/2018/06/399ya7b/"/>
-      <url>/2018/06/399ya7b/</url>
-      
-        <content type="html"><![CDATA[<h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2><ul><li>请不要在这里发表任何违反阁下所在地区法律法规的评论！</li><li>本站 live2d <del>纸片人</del>动态模块上方采用了一言 (hitokoto) 的 API 即时获取文本，那些奇奇怪怪的话小饼可不知道怎么出来的（</li><li>本站所有的文字均有可能是没睡醒脸滚键盘滚出来的，若与阁下看法相左<strong>烦请略过</strong>，如侵犯到阁下利益请移步右侧 <span class="github-emoji" style="font-size:1em"><span>👉</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> 私聊按钮或联系 <a href="mailto:petertianle@outlook.com">petertianle@outlook.com</a> 解决。在评论区的任何纠纷小饼可不会管（</li><li>最后，小饼也不知道为什么 bakery 里全是 coffee 没有 bread <del>疯狂暗示 donate</del>（</li></ul><h2 id="更新记录"><a href="#更新记录" class="headerlink" title="更新记录"></a>更新记录</h2><h3 id="2020"><a href="#2020" class="headerlink" title="2020"></a>2020</h3><p><strong>2020/1/29</strong> · 2019-nCoV 期间丢弃了源代码（实际是懒懒不想看原来的配置）并使用 Hexo 4.2.0 / Matery 1.2.2 重构小站。</p><h3 id="2018"><a href="#2018" class="headerlink" title="2018"></a>2018</h3><p><del>此后由于旧电脑的废弃而搁置。</del>其实只是懒（<br><strong>2018/7/16</strong> · 有了第一篇非记事性文章。<br><strong>2018/6/21</strong> · 小站建站，使用 Hexo 3.7.1 / NexT.Gemini 6.3.0。</p>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>日语学习Day3</title>
+    <url>/2018/07/15sdx07/</url>
+    <content><![CDATA[<h3 id="每日一歌"><a href="#每日一歌" class="headerlink" title="每日一歌"></a>每日一歌</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=536622304&amp;auto=1&amp;height=66"></iframe>
+### 每日一句
+&gt; 真理は平凡な中にある。一朝一夕にことがなるものではない。一日一日が大事なのだ。
+
+<p>（注：武田信玄 (1521-1573)，日本战国时代名将）</p>
+<h4 id="知识点-exclamation"><a href="#知识点-exclamation" class="headerlink" title="知识点 :exclamation:"></a>知识点 <span class="github-emoji" style="font-size:1em"><span>❗</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h4><blockquote>
+<p> 一生懸命（いっしょうけんめい）<br>　　【名·形2】 拼命、努力<br>… だと<br>　　 如果 … 的话<br>知恵（ちえ）<br>　　【名】智慧、主意<br> 出る（で～）<br>　　【自动】1.出去 2.得到 3.出现 4.（液体）流出、漏出<br> 愚痴（ぐち）<br>　　【名】牢骚、抱怨<br> いい加減（~かげん）<br>　　【形2】1.适可而止 2.马马虎虎<br> 言い訳（い～わけ）<br>　　【名·他动】1.分辨、辩解 2.道歉</p>
+</blockquote>
+<h3 id="今日干货-star2"><a href="#今日干货-star2" class="headerlink" title="今日干货 :star2:"></a>今日干货 <span class="github-emoji" style="font-size:1em"><span>🌟</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h3><h4 id="語彙パート（ごい-）-词汇部分"><a href="#語彙パート（ごい-）-词汇部分" class="headerlink" title="語彙パート（ごい~）　　　词汇部分"></a>語彙パート（ごい~）　　　词汇部分</h4><blockquote>
+<p>夏（なつ）<br>　　【名】夏天<br>  　　●　夏休み（～やす～）　　　　暑假</p>
+</blockquote>
+<blockquote>
+<p>海（うみ）<br>　　【名】大海<br>  　　●　海水浴（<strong>かい</strong>すいよく）　　海水浴<br>  　　●　海産物（<strong>かい</strong>さんぶつ）　　海产</p>
+</blockquote>
+<blockquote>
+<p>恋（こい）<br>　　【名】恋爱<br>  　　●　恋人（～びと）　　　　　　恋人<br>  　　●　恋愛（<strong>れんあい</strong>）　　　　　恋爱</p>
+</blockquote>
+<blockquote>
+<p>好き（す～）<br> 　　【名·形2】喜欢、喜好（对人、对物均可）<br>  　　●　～な人（～ひと）　　　　　喜欢的人<br>  　　●　大好き（だいすき）　　　　最喜欢</p>
+</blockquote>
+<h4 id="文パート（ぶん-）-句子部分"><a href="#文パート（ぶん-）-句子部分" class="headerlink" title="文パート（ぶん~）　　　句子部分"></a>文パート（ぶん~）　　　句子部分</h4><blockquote>
+<p>（下次这里就有东西了 真的不是懒得做）</p>
+</blockquote>
+<p>以上、今日の毎日日本語は完了しました。</p>
+]]></content>
       <categories>
-          
-          <category> 闲聊 </category>
-          
+        <category>日语</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-  
-  
+  </entry>
 </search>
